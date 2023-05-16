@@ -1,0 +1,29 @@
+---
+title: "Nutritional Value Template"
+description: ""
+lead: ""
+date: 2023-05-16T10:28:07-05:00
+lastmod: 2023-05-16T10:28:07-05:00
+draft: false 
+images: []
+menu:
+  docs:
+    parent: "food-recipes"
+    identifier: "nutritional-value-template-b6e10384b9eff6d08543eb482508fb02"
+weight: 999
+toc: true
+---
+
+| Nutrient     | Amount Per Serving |
+| :----------- | :---------------- |
+| Calories     | xxx kcal          |
+| Protein      | xx g              |
+| Total Fat    | xx g              |
+| Saturated Fat| xx g              |
+| Cholesterol  | xxx mg            |
+| Total Carbohydrate | xx g       |
+| Dietary Fiber| xx g              |
+| Sugars       | xx g              |
+| Sodium       | xxx mg            |
+
+*Percent Daily Values are based _on a _2,000-calorie_ diet._ Your daily values may be higher or lower depending on your calorie needs.*

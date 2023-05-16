@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "food-recipes"
+    parent: "dinner"
     identifier: "chicken-fettuccine-alfredo-recipe-8f56bfda8ea4089d82536f73e9667987"
 weight: 999
 toc: true
@@ -41,14 +41,16 @@ This classic Italian dish is easy to make and perfect for a cozy dinner at home.
 
 ## Nutritional Information
 
-- Calories: 675
-- Fat: 33g
-- Saturated Fat: 19g
-- Cholesterol: 186mg
-- Sodium: 665mg
-- Carbohydrates: 49g
-- Fiber: 2g
-- Sugar: 2g
-- Protein: 44g
+| Nutrient | Amount Per Serving |
+| :------ | :------- |
+| Calories | 675 kcal |
+| Fat | 33 g |
+| Saturated Fat | 19g |
+| Cholesterol | 186 mg |
+| Sodium | 665 mg |
+| Carbohydrates | 49 g |
+| Fiber | 2 g |
+| Sugar | 2 g |
+| Protein | 44 g |
 
 **Note:** For a lighter version of this recipe, you can use half-and-half or whole milk instead of heavy cream. You can also use a combination of Parmesan and Romano cheeses for a more complex flavor.
