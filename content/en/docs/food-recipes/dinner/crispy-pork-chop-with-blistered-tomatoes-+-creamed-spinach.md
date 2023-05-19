@@ -1,5 +1,5 @@
 ---
-title: "Crispy Pork Chop With Blistered Tomatoes + Creamed Spinach"
+title: "Pork Chop With Tomatoes + Spinach"
 description: "Crispy Pork Chop With Blistered Tomatoes + Creamed Spinach"
 lead: ""
 date: 2023-05-17T18:53:57-05:00
