@@ -33,6 +33,10 @@
 
 ![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/doks.png)
 
+## Image
+
+We recommend images in `/docs/` have a ratio of 4:3
+
 ## Demo
 
 - [doks-child-theme.netlify.app](https://doks-child-theme.netlify.app/)
