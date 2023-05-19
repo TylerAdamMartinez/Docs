@@ -12,7 +12,11 @@ menu:
     identifier: "chicken-fettuccine-alfredo-recipe-8f56bfda8ea4089d82536f73e9667987"
 weight: 999
 toc: true
+mermaid: true
 ---
+
+![Chicken Fettuccine Alfredo](Chicken_Fettuccine_Alfredo.webp "Chicken Fettuccine Alfredo")
+
 
 This classic Italian dish is easy to make and perfect for a cozy dinner at home. This recipe serves four people.
 
@@ -52,5 +56,13 @@ This classic Italian dish is easy to make and perfect for a cozy dinner at home.
 | Fiber | 2 g |
 | Sugar | 2 g |
 | Protein | 44 g |
+
+{{< mermaid class="text-center" >}}
+pie title Macronutrients Breakdown
+  "Carbs" : 49
+  "Fat" : 33
+  "Protein" : 44
+{{< /mermaid >}}
+
 
 **Note:** For a lighter version of this recipe, you can use half-and-half or whole milk instead of heavy cream. You can also use a combination of Parmesan and Romano cheeses for a more complex flavor.
