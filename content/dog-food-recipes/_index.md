@@ -1,3 +1,0 @@
-+++
-title = 'Dog Food Recipes'
-+++
