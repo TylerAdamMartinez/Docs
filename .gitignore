@@ -30,9 +30,6 @@
 # Ignore Hugo .DS_Store files (macOS specific)
 .DS_Store
 
-# Ignore the public directory if it's generated locally
-/public/
-
 # Ignore Hugo's automatically generated .gitignore file
 .gitignore
 

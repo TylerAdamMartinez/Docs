@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Docs</title>
+    <link>https://docs.marshellyan.net/tags/</link>
+    <description>Recent content in Tags on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 22:41:10 -0500</lastBuildDate><atom:link href="https://docs.marshellyan.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FOOD</title>
+      <link>https://docs.marshellyan.net/tags/food/</link>
+      <pubDate>Tue, 19 Sep 2023 22:41:10 -0500</pubDate>
+      
+      <guid>https://docs.marshellyan.net/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEALS</title>
+      <link>https://docs.marshellyan.net/tags/meals/</link>
+      <pubDate>Tue, 19 Sep 2023 22:41:10 -0500</pubDate>
+      
+      <guid>https://docs.marshellyan.net/tags/meals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DOG FOOD</title>
+      <link>https://docs.marshellyan.net/tags/dog-food/</link>
+      <pubDate>Tue, 19 Sep 2023 19:44:43 -0500</pubDate>
+      
+      <guid>https://docs.marshellyan.net/tags/dog-food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIDES</title>
+      <link>https://docs.marshellyan.net/tags/sides/</link>
+      <pubDate>Tue, 16 May 2023 10:47:35 -0500</pubDate>
+      
+      <guid>https://docs.marshellyan.net/tags/sides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COOKING</title>
+      <link>https://docs.marshellyan.net/tags/cooking/</link>
+      <pubDate>Tue, 16 May 2023 10:28:07 -0500</pubDate>
+      
+      <guid>https://docs.marshellyan.net/tags/cooking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
