@@ -1,4 +1,4 @@
-baseURL = 'https://docs.marshellyan.net/'
+baseURL = 'https://docs.marshellyan.net/docs/'
 languageCode = 'en-us'
 title = 'Docs'
 theme = 'dark-theme-editor'
